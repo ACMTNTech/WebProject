@@ -1,4 +1,4 @@
-Projects
+WebProjects
 ========
 
-Projects of the Tennessee Tech ACM chapter
+This contains the source code for the website.
